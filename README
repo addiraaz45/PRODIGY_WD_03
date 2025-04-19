@@ -1,0 +1,48 @@
+# 🎯 Tic Tac Toe - Simple Web Game
+
+A lightweight, browser-based **Tic Tac Toe** game built with just **HTML**, **CSS**, and **JavaScript**. This fun project is perfect for learning basic web development and JavaScript logic.
+---
+
+## 🔥 Live Demo
+
+👉 [Click here to play online](#) *(Add your GitHub Pages/Netlify link once deployed)*
+
+---
+
+## 🕹️ Features
+
+- 🎮 Two-player mode (X vs O)
+- 🧠 Smart game logic with win/draw detection
+- 🔄 Restart button to play again anytime
+- 📱 Responsive design – play on mobile or desktop
+- 💻 No frameworks – just pure, clean HTML/CSS/JavaScript
+
+---
+
+## 🧱 Tech Stack
+
+| Layer       | Technology |
+|-------------|------------|
+| Structure   | HTML5      |
+| Styling     | CSS3       |
+| Behavior    | JavaScript |
+
+---
+
+## 📂 Folder Structure
+
+tic-tac-toe/ 
+├── index.html # Main HTML file 
+├── style.css # Game styles 
+├── script.js # Game logic 
+└── README.md # This documentation
+
+## 📜 License
+
+This project is open-source and free to use under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Acknowledgements
+
+Inspired by the classic Tic Tac Toe game played on paper — now made for the browser!
